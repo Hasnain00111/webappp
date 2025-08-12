@@ -1,0 +1,399 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    list-style-type: none;
+    font-family: "Cabin", sans-serif;
+}
+
+
+        /* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<section-1 start from here>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+
+
+.sport-website{
+    width: 1440px;
+    height: 3803px;
+    background-color:#FFFFFF;
+}
+.section-1{
+    width: 1440px;
+    height: 722px;
+    background-image: url(images/Rectangle\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.section-1 .header{
+    width: 1440px;
+    height: 90px;
+    /* background-color: red; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header .sub-header{
+    width: 1240px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.header .sub-header .logo{
+    width: 143px;
+    height: 50px;
+}
+.header .sub-header .menus{
+    width: 245px;
+    height: 22px;
+    /* background-color: white; */
+    display: flex;
+    
+}
+.header .sub-header .menus ul{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+.header .sub-header .menus ul .home{
+    width: 48px;
+    height: 22px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #DE4132;
+}
+.header .sub-header .menus ul .about{
+    width: 47px;
+    height: 22px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #222222;
+
+}
+.header .sub-header .menus ul .package{
+    font-size: 18px;
+    font-weight: 400;
+    
+    width: 77px;
+    height: 22px;
+    color: #222222;
+}
+.header .sub-header .btn1{
+    width: 176px;
+    height: 50px;
+    background-color: #DE4132;
+    border-style: none;
+    color:#FFFFFF;
+    font-weight: 500;
+    font-size: 18px;
+    border-radius: 8px;
+}
+
+
+        /* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<header end on here>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+
+
+.section-1 .container-1{
+    width: 520px;
+    height: 488px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.container-1 .heading{
+    width: 513px;
+    height: 234px;
+    padding-left: 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+.container-1 .heading h1{
+    font-size: 45px;
+    font-weight: 700;
+    line-height: 100%;
+    color: #313B4C;
+}
+.container-1 .heading h1 span{
+    color: #DE4132;
+
+}
+.container-1 .heading .paragraph{
+    width: 520px;
+    height: 54px;
+    font-size: 18px;
+    line-height: 27px;
+    color: #222222CC;
+
+}
+.container-1 .icons{
+    width: 236px;
+    height: 53px;
+    position: absolute;
+}
+.container-1 .icons .images{
+    width: 50px;
+    height: 50px;
+}
+.container-1 .icons .img1{
+    position: absolute;
+    left: 100px;
+
+}
+.container-1 .icons .img2{
+    position: absolute;
+    left: 130px;
+    
+}
+.container-1 .icons .img3{
+    position: absolute;
+    left: 160px;
+}
+.container-1 .icons .img4{
+    position: absolute;
+    left: 190px;
+}
+.container-1 .icons .rating{
+    width: 85px;
+    height: 50px;
+    padding-left: 250px;
+}
+.container-1 .btn-2{
+    width: 186px;
+    height: 50px;
+    background-color:#DE4132;
+    margin-top: 100px;
+    margin-left: 100px;
+    border-style: none;
+    border-radius: 8px;
+    font: 18px;
+    color: #FFFFFF;
+    font-weight: 500;
+    
+    
+}
+
+.container-1 .btn-3{
+    width: 186px;
+    height: 50px;
+    background-color: #FFFFFF;
+    border-style: none;
+    border-radius: 8px;
+    font: 18px;
+    color:#DE4132;
+    font-weight: 500;
+    margin-left: 18px;
+}
+.social-media-icons{
+    width: 646px;
+    height: 722px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+
+}
+.content{
+    display: flex;
+}
+.social-media-icons .social-icons{
+    width: 46px;
+    height: 520px;
+    margin-bottom: 200px;
+    margin-right: 40px;
+   
+}
+
+
+        /* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<section-1 end here>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+
+
+
+
+        /* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<starting of section-2>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+
+
+.section-2{
+    width: 1440px;
+    height: 248px;
+    background-color: #FEF9F9;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.section-2 .container-3{
+    width: 1058px;
+    height: 141px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+.section-2 .container-3 .partner h1{
+    width: 240px;
+    height: 53px;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 100%;
+}
+.section-2 .container-3 .partner h1 span {
+    color: #DE4132;
+}
+.section-2 .proffesional-learning-platforms{
+    display: flex;
+    gap: 50px;
+}
+.section-2 .proffesional-learning-platforms .pro-1{
+    width: 163px;
+    height: 48px;
+}
+.section-2 .proffesional-learning-platforms .pro-2{
+    width: 114px;
+    height: 48px;
+}
+.section-2 .proffesional-learning-platforms .pro-3{
+    width: 180px;
+    height: 48px;
+}
+.section-2 .proffesional-learning-platforms .pro-4{
+    width: 171px;
+    height: 48px;
+}
+.section-2 .proffesional-learning-platforms .pro-5{
+    width: 230px;
+    height: 48px;
+}
+
+
+        /* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< setion-2 end here>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+
+
+        /* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<starting of section-3>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+.section-3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.section-3 h3{
+    width: 463px;
+    height: 35px;
+    font-size: 30px;
+    font-weight: 700;line-height: 100%;
+    color: #313B4C;
+    padding-top: 35px;
+}
+.section-3 h3 span{
+    color: #DE4132;
+}
+.section-3 #lorem{
+    width: 935px;
+    height: 54px;
+    text-align: center;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 27px;
+    color: #222222CC;
+    padding-bottom: 30px;
+    
+}
+.section-3 .container-4{
+    width: 1240px;
+    height: 526px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.section-3 .container-4 .pic{
+    width: 405px;
+    height: 526px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.section-3 .container-4 .pic-1{
+    width: 377px;
+    height: 262px;
+}
+.section-3 .container-4 .pic-2{
+    width: 377px;
+    height: 262px;
+}
+.section-3 .container-4 .pic-3{
+    width: 377px;
+    height: 262px;
+}
+.section-3 .container-4 .txt{
+    width: 361px;
+    height: 172px;
+}
+.section-3 .container-4 .txt .topic{
+    width: 342px;
+    height: 27px;
+}
+.section-3 .container-4 .txt .elobrate{
+    width: 361px;
+    height: 135px; 
+}
+.section-3 .container-4 .txt .topic h4{
+    font-size: 26px;
+    font-weight: 700;
+    color: #313B4C;
+}
+.section-3 .container-4 .txt .elobrate p{
+     font-size: 17px;
+     font-weight: 400;
+     line-height: 27px;
+     color: #222222CC;
+     margin-top: 15px;
+
+}
+.section-3 .container-4 .learn-more{
+    width: 120px;
+    height: 27px;
+    font-size: 17px;
+    color: #DE4132;
+}
+
+
+        /* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<section-3 end here>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+
+.section-4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.section-4 .content-of-sec-4{
+    background-image: url(images/section4.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 830px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 12px;
+}
+.section-4 .content-of-sec-4 h1{
+    font-size: 44px;
+    font-weight: 700;
+    color:#FFFFFF;
+}
+.section-4 .content-of-sec-4 p{
+    font-size: 20px;
+    color: #FFFFFF;
+    font-weight: 400;
+    line-height: 20px;
+}
+.section-4 .content-of-sec-4 .btnn{
+    width: 186px;
+    height: 50px;
+    border-radius: 8px;
+    color: #b31010;
+    border-style: none;
+}
