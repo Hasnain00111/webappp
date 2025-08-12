@@ -397,3 +397,33 @@
     color: #b31010;
     border-style: none;
 }
+
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<end of section-4>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> */
+
+.section-5 .mian{
+    width: 1440px;
+    height: 671px;
+    background-color: green;
+    display: flex;
+
+}
+.section-5 .sec-5-heading{
+    width: 271px;
+    height: 53px;
+}
+.section-5 #sec-5-heading  span{
+    color: #b31010;
+}
+.section-5 .sect-5-1{
+    width: 380px;
+    height: 486px;
+}
+.section-5 .sec-5-3{
+    width: 378px;
+    height: 517px;
+}
+.section-5 .sec-5-3 .sec-5-3-1{
+    width: 378px;
+    height: 109px;
+    
+}
